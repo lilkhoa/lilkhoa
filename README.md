@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Khoa Nguyen from HCMC University of Technology<br><br>- 🔭 I'm interested in working as an backend developer.<br>- 📚 I'm currently learning computer science.
+<p align="left">I'm Khoa Nguyen from HCMC University of Technology<br><br>- 🔭 I'm interested in working as an AI/ML engineer.<br>- 📚 I'm currently learning computer science.
 
 ###
 
