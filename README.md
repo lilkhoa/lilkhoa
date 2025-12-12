@@ -41,13 +41,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilkhoa&show_icons=true&theme=tokyonight&count_private=true" alt="lilkhoa's GitHub stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilkhoa&layout=compact&theme=tokyonight" alt="lilkhoa's top languages" />
-</p>
