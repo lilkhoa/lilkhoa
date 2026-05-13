@@ -11,33 +11,15 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">I'm Khoa Nguyen from HCMC University of Technology<br><br>- 🔭 I'm interested in working as an AI/ML engineer.<br>- 📚 I'm currently learning computer science.
+<p align="left">I'm Khoa Nguyen from HCMC University of Technology<br><br>-  I'm interested in working as an AI/ML engineer.<br>-  I'm currently learning computer science.
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/c/c-original.svg" height="40" alt="c logo"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/express/express-original.svg" height="40" alt="express logo"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/handlebars/handlebars-original.svg" height="40" alt="handlebars logo"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
 
 ###
